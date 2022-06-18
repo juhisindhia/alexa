@@ -14,7 +14,7 @@ class Sum {
 	public static void main(String[] args) {
 		Sum s1 = new Sum();
 		int add = s1.calculation(1, 2, "+");
-		int sub = s1.calculation(5, 2, "-");
+		int sub = s1.calculation(10, 2, "-");
 		int mul = s1.calculation(7, 2, "*");
 		int div = s1.calculation(7, 2, "/");
 		int per = s1.calculation(7, 2, "%");
